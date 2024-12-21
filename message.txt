@@ -1,0 +1,10 @@
+This is a test file with lots of repetitive content.
+This is a test file with lots of repetitive content.
+We repeat these lines many times to show compression.
+We repeat these lines many times to show compression.
+The more repetitive the content, the better the compression.
+The more repetitive the content, the better the compression.
+Huffman coding works well with repeated patterns.
+Huffman coding works well with repeated patterns.
+Let's see how much we can compress this file.
+Let's see how much we can compress this file
